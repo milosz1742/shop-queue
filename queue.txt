@@ -1,1 +1,2 @@
 
+lp user 1001 parent add vip
