@@ -1,3 +1,4 @@
 
 lp user veynoor parent add vip
 lp user veynoor parent add vip
+eco give veynoor 10000
